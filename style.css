@@ -33,7 +33,7 @@ aside {
 section,Nav,Header,footer{
   
     margin: 0 1.5% 24px 1.5%;
-    font-size: 16px 
+    font-size: 16px;
 
 }
 
@@ -59,7 +59,7 @@ section{
     background: #ebebeb;
     width: 540px;
     padding: 1em;
-    font-size: 16px   
+    font-size: 16px;   
 }
 
 footer{
@@ -67,6 +67,6 @@ footer{
     background: #ebebeb;
     clear: both;
     padding: 1em;
-    float: center
-
+    float: center;
+    
 }
